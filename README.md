@@ -3,7 +3,9 @@
 The following instructions will be using `yarn`. For more installation documentation, check out [Vite Docs](https://vitejs.dev/guide/)
 
 ## Create a new project in Vite
-```yarn create vite```
+```
+yarn create vite
+```
 
 You will be asked to create a project name, followed by the framework and language. For this template React and Typescript were chosen.
 
